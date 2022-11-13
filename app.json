@@ -2,6 +2,7 @@
   "expo": {
     "name": "Feedback Form",
     "slug": "feedback-form",
+    "description": "React Native Core Components (View, Text, ScrollView, TextInput, KeyboardAvoidingView) || Styling using StyleSheet API",
     "owner": "marvedventures",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -15,9 +16,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
