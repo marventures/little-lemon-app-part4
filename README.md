@@ -15,24 +15,6 @@ This is a solution to the React Native Exercise by Meta.
 
 ## Overview
 
-### The challenge
-
-Users should be able to:  
-
-- Create a React Native App using Expo
-- Use View, Text, TextInput, ScrollView, KeyboardAvoiding View Components
-- Create a Header Component
-- Create a Footer Component  
-- Create a Welcome Screen Component  
-- Configure TextInput component on the Welcome Screen  
-- Store user input within TextInput as local state by using useState Hook
-- Set behaviors for the virtual keyboard
-- Set keyboard types (phone-pad)
-- Prevent the keyboard from obstructing the view
-- Update Styles of Components to match Scenario
-- Extract All Styles to StyleSheet API 
-- Render Components to the App Component
-
 ### Screenshot
 
 ![image](https://user-images.githubusercontent.com/108392678/201511433-b1ce993f-d293-4a1e-8b56-f25894176d9e.png)
@@ -51,11 +33,19 @@ Users should be able to:
 
 ### What I learned
 
-Creating React Native components, KeyboardAvoidingView, TextInput, Views, Text and ScrollView Components.  
-Accepting user input through TextInput Component.  
-Preventing the virtual keyboard from obstructing the view based on a platform using KeyboardAvoidingView and Platform API.  
-Disappear the keyboard on scroll by using the keyboardDismissMode set to 'on-drag' on ScrollView.  
-Using StyleSheet API to style a React Native App.
+- Create a React Native App using Expo
+- Use View, Text, TextInput, ScrollView, KeyboardAvoiding View Components
+- Create a Header Component
+- Create a Footer Component  
+- Create a Welcome Screen Component  
+- Configure TextInput component on the Welcome Screen  
+- Store user input within TextInput as local state by using useState Hook
+- Set behaviors for the virtual keyboard
+- Set keyboard types (phone-pad)
+- Prevent the keyboard from obstructing the view
+- Update Styles of Components to match Scenario
+- Extract All Styles to StyleSheet API 
+- Render Components to the App Component
 
 Here is a code snippet: 
 ```jsx
