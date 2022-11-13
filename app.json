@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "style-a-component---solution-code",
-    "slug": "snack-c7b3c846-7007-4286-b594-a67e88603e71",
+    "name": "Feedback Form",
+    "slug": "feedback-form",
+    "owner": "marvedventures",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
