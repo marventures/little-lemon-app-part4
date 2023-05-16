@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "Feedback Form",
+    "owner": "marventures",
     "slug": "feedback-form",
     "description": "React Native Core Components (View, Text, ScrollView, TextInput, KeyboardAvoidingView) || Styling using StyleSheet API",
     "owner": "marvedventures",
