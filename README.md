@@ -22,7 +22,7 @@ This is a React Native App using TextInput, custom keyboard types and StyleSheet
 
 ### Links
 
-- Solution URL: [Code](https://github.com/marvedventures/little-lemon-app-part4)
+- Solution URL: [Code](https://github.com/marventures/little-lemon-app-part4)
 
 ## My process
 
@@ -91,5 +91,5 @@ export default function WelcomeScreen() {
 ## Author
 
 - Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marvedventures](https://www.linkedin.com/in/marvedventures/)
-- Twitter - [@marvedventures](https://www.twitter.com/marvedventures)
+- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
+- Twitter - [@marventures11](https://www.twitter.com/marventures11)
