@@ -1,6 +1,6 @@
-# React Native (Meta) Exercise
+# React Native Welcome Screen
 
-This is a solution to the React Native Exercise by Meta.
+This is a React Native App using TextInput, custom keyboard types and StyleSheet API.
 
 ## Table of contents
 
